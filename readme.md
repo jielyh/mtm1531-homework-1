@@ -8,7 +8,7 @@ Twenty Thousand Leagues Under the Sea is a classic science fiction novel by Fren
 
 •	Wikipedia entry
 
-Excerpt
+##Excerpt
 
 Part One
 Chapter I: A Shifting Reef
@@ -19,7 +19,7 @@ For some time past vessels had been met by "an enormous thing," a long object, s
 
 •	From Project Gutenberg
 
-About Jules Verne
+##About Jules Verne
 
 Jules Gabriel Verne (February 8, 1828 – March 24, 1905) was a French author who pioneered the science fiction genre. Verne wrote about space, air, and underwater travel before air travel and practical submarines were invented, and before practical means of space travel had been devised.
 
