@@ -7,7 +7,7 @@ _Twenty Thousand Leagues Under the Sea_ is a classic science fiction novel by Fr
 
 +	[Wikipedia entry](http://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
 
-**** 
+* * * *
 
 ##Excerpt
 
@@ -20,7 +20,7 @@ For some time past vessels had been met by "an enormous thing," a long object, s
 
 +	[From Project Gutenberg](http://www.gutenberg.org/ebooks/164)
 
-****
+* * * *
 
 ##About Jules Verne
 
